@@ -1,0 +1,2 @@
+# Notes
+## Exception handling
